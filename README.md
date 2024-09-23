@@ -3,12 +3,6 @@
 
 This project compares two approaches for image caption generation using deep learning models: CNN + LSTM and ResNet + GRU. The models were trained and evaluated on the Flicker 8K dataset to generate captions for images.
 
-## Authors
-- Chaitanya Inamdar
-- Abhishek Patil
-- Nishith A
-- Yashraj Rajput
-
 ## Problem Statement
 
 Image recognition plays a critical role in various fields such as:
