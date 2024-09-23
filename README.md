@@ -56,6 +56,12 @@ The CNN + LSTM model performed better in terms of capturing both background and 
 ### Test Image Results
 The models were tested on both the Flicker 8K dataset and real-time images. CNN + LSTM outperformed ResNet + GRU in both cases.
 
+#### CNN + LSTM Results
+![CNN + LSTM Results](CNN+LSTM.png)
+
+#### ResNet + GRU Results
+![ResNet + GRU Results](RESNet+GRU.png)
+
 ## Conclusion
 
 - The **CNN + LSTM** model proved to be more effective than the **ResNet + GRU** model, primarily because LSTM captures the context of captions better than GRU.
